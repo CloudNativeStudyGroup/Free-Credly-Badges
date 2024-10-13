@@ -39,6 +39,10 @@ The Linux Foundation provides a neutral, trusted hub for developers to code, man
 7. [Introduction to Serverless on Kubernetes](https://training.linuxfoundation.org/training/introduction-to-serverless-on-kubernetes-lfs157/)
 8. [Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 9. [Introduction to Cloud Infrastructure Technologies](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
+10. [Introduction to DevSecOps for Managers](https://training.linuxfoundation.org/training/introduction-to-devsecops-for-managers-lfs180/)
+11. [Introduction to GitOps](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
+12. [Introduction to Jenkins](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)
+13. [Introduction to DevOps and Site Reliability Engineering](https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/)
 
 ## Join our community
 
