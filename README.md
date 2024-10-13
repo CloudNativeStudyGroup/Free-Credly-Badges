@@ -8,18 +8,18 @@ A list of free courses where you can earn Credly digital badges. Feel free to co
 
 The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects. They offer a number of free courses where you can earn credly badges. 
 
-1. [Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+1. [Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/) - This prepares you for [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io) certification.
 2. [Introduction to Cloud Infrastructure Technologies](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
 3. [Introduction to DevSecOps for Managers](https://training.linuxfoundation.org/training/introduction-to-devsecops-for-managers-lfs180/)
-4. [Introduction to GitOps](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/)
+4. [Introduction to GitOps](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/) - This prepares you for [GitOps Certified Associate (CGOA)](https://cgoa.kubeflex.io) certification.
 5. [Introduction to Jenkins](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)
 6. [Introduction to DevOps and Site Reliability Engineering](https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/)
 7. [Introduction to Serverless on Kubernetes](https://training.linuxfoundation.org/training/introduction-to-serverless-on-kubernetes-lfs157/)
 8. [Scaling Cloud Native Applications with KEDA](https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/)
 9. [Introduction to AI/ML Toolkits with Kubeflow](https://training.linuxfoundation.org/training/introduction-to-ai-ml-toolkits-with-kubeflow-lfs147/)
 10. [Introduction to Zero Trust](https://training.linuxfoundation.org/training/introduction-to-zero-trust-lfs183/)
-11. [Introduction to Cilium](https://training.linuxfoundation.org/training/introduction-to-cilium-lfs146/)
-12. [Introduction to Istio](https://training.linuxfoundation.org/training/introduction-to-istio-lfs144/)
+11. [Introduction to Cilium](https://training.linuxfoundation.org/training/introduction-to-cilium-lfs146/) - This prepares you for [Cilium Certified Associate (CCA)](https://cca.kubeflex.io) certification.
+12. [Introduction to Istio](https://training.linuxfoundation.org/training/introduction-to-istio-lfs144/) - This prepares you for [Istio Certified Associate (ICA)](https://ica.kubeflex.io) certification.
 13. [Introduction to Backstage: Developer Portals Made Easy](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/)
 
 
