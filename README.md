@@ -3,6 +3,8 @@
 A list of free courses where you can earn Credly digital badges. Feel free to contribute!
 
 ## Cilium 
+![Alt text](images/cilium-logo-920x460-sue-v1.png?raw=true "Cilium Logo")
+
 Cilium is an open-source, cloud-native solution for providing, securing, and observing network connectivity between workloads. You can earn digital badges by completing labs posted by Isovalent. Once you learn Cilium, you may consider taking the [Cilium Certified Associate (CCA)](https://cca.kubeflex.io) certification! Click [here](https://medium.com/@nvsajeeva/how-to-pass-cca-cilium-certified-associate-exam-5a1b4f6ca63b) for the CCA study gude. 
 
 1. [Getting Started with Cilium](https://isovalent.com/labs/cilium-getting-started/)
