@@ -49,7 +49,7 @@ Calico is a networking and security solution for containers, virtual machines, a
 
 ## Solo.io [Need help to verify]
 ![Alt text](images/Solo.jpg?raw=true "Solo Logo")
-Solo.io is the leading provider of API gateway, service mesh, & internal developer portal solutions. Solo.io develops innovative cloud-native solutions.
+[Solo.io](https://www.solo.io/) is the leading provider of API gateway, service mesh, & internal developer portal solutions. Solo.io develops innovative cloud-native solutions.
 They offer five free courses where you can earn digital badges. Click [here](https://www.solo.io/academy/) to visit their Academy landing page, where they claim to provide certificates.
 
 1. [Envoy Basics](https://academy.solo.io/learn/courses/81/envoy-basics)
