@@ -28,6 +28,8 @@ Calico is a networking and security solution for containers, virtual machines, a
 
 ## The Linux Foundation
 
+![Alt text](images/Linux_Foundation_logo.png?raw=true "The Linux Foundation Logo")
+
 The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects. They offer a number of free courses where you can earn credly badges. 
 
 1. [Scaling Cloud Native Applications with KEDA](https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/)
