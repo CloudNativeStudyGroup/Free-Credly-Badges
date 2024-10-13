@@ -26,6 +26,20 @@ Calico is a networking and security solution for containers, virtual machines, a
 
 1. [Certified Calico Operator - eBPF](https://academy.tigera.io/course/certified-calico-operator-ebpf/)
 
+## The Linux Foundation
+
+The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects. They offer a number of free courses where you can earn credly badges. 
+
+1. [Scaling Cloud Native Applications with KEDA](https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/)
+2. [Introduction to AI/ML Toolkits with Kubeflow](https://training.linuxfoundation.org/training/introduction-to-ai-ml-toolkits-with-kubeflow-lfs147/)
+3. [Introduction to Zero Trust](https://training.linuxfoundation.org/training/introduction-to-zero-trust-lfs183/)
+4. [Introduction to Cilium](https://training.linuxfoundation.org/training/introduction-to-cilium-lfs146/)
+5. [Introduction to Istio](https://training.linuxfoundation.org/training/introduction-to-istio-lfs144/)
+6. [Introduction to Backstage: Developer Portals Made Easy](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/)
+7. [Introduction to Serverless on Kubernetes](https://training.linuxfoundation.org/training/introduction-to-serverless-on-kubernetes-lfs157/)
+8. [Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+9. [Introduction to Cloud Infrastructure Technologies](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
+
 ## Join our community
 
 Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
