@@ -28,4 +28,4 @@ Calico is a networking and security solution for containers, virtual machines, a
 
 ## Join our community
 
-Join our [community](https://www.linkedin.com/groups/13092099/) to lean together!
+Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
