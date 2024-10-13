@@ -25,3 +25,7 @@ Cilium is an open-source, cloud-native solution for providing, securing, and obs
 Calico is a networking and security solution for containers, virtual machines, and native host-based workloads. Tigera offers four [free courses](https://www.tigera.io/lp/calico-certification/), but it appears that only one course provides a free Credly badge.
 
 1. [Certified Calico Operator - eBPF](https://academy.tigera.io/course/certified-calico-operator-ebpf/)
+
+## Join our community
+
+Join our [community](https://www.linkedin.com/groups/13092099/) to lean together!
