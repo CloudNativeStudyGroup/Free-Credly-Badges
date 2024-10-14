@@ -18,8 +18,8 @@ The Linux Foundation provides a neutral, trusted hub for developers to code, man
 8. [Scaling Cloud Native Applications with KEDA](https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/)
 9. [Introduction to AI/ML Toolkits with Kubeflow](https://training.linuxfoundation.org/training/introduction-to-ai-ml-toolkits-with-kubeflow-lfs147/)
 10. [Introduction to Zero Trust](https://training.linuxfoundation.org/training/introduction-to-zero-trust-lfs183/)
-11. [Introduction to Cilium](https://training.linuxfoundation.org/training/introduction-to-cilium-lfs146/) - This prepares you for [Cilium Certified Associate (CCA)](https://cca.kubeflex.io) certification.
-12. [Introduction to Istio](https://training.linuxfoundation.org/training/introduction-to-istio-lfs144/) - This prepares you for [Istio Certified Associate (ICA)](https://ica.kubeflex.io) certification.
+11. [Introduction to Cilium](https://training.linuxfoundation.org/training/introduction-to-cilium-lfs146/) - This prepares you for [Cilium Certified Associate (CCA)](https://cca.kubeflex.io) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-cca-cilium-certified-associate-exam-5a1b4f6ca63b) for the study guide.
+12. [Introduction to Istio](https://training.linuxfoundation.org/training/introduction-to-istio-lfs144/) - This prepares you for [Istio Certified Associate (ICA)](https://ica.kubeflex.io) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-ica-istio-certified-associate-exam-355152566bc8) for the study guide.
 13. [Introduction to Backstage: Developer Portals Made Easy](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/)
 
 
