@@ -22,7 +22,7 @@ The Linux Foundation provides a neutral, trusted hub for developers to code, man
 12. [Introduction to Istio](https://training.linuxfoundation.org/training/introduction-to-istio-lfs144/) - This prepares you for [Istio Certified Associate (ICA)](https://ica.kubeflex.io) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-ica-istio-certified-associate-exam-355152566bc8) for the study guide.
 13. [Introduction to Backstage: Developer Portals Made Easy](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/)
 
-
+Note: If you wish to purchase advanced courses or certifications, you can find discounts in [this](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) repository. 
 ## Cilium 
 ![Alt text](images/cilium-logo-920x460-sue-v1.png?raw=true "Cilium Logo")
 
