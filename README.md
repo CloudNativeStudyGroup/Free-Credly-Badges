@@ -8,7 +8,7 @@ A list of free courses where you can earn Credly digital badges. Feel free to co
 
 The Linux Foundation provides a neutral, trusted hub for developers to code, manage, and scale open technology projects. They offer a number of free courses where you can earn credly badges. 
 
-1. [Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/) - This prepares you for [Certified Kubernetes Administrator (CKA)](https://cka.kubeflex.io) certification.
+1. [Introduction to Kubernetes](https://training.linuxfoundation.org/training/introduction-to-kubernetes/) - This prepares you for [CKA](https://medium.com/@nvsajeeva/how-to-pass-cka-certified-kubernetes-administrator-exam-beginners-guide-af5803370a3c), [CKAD](https://medium.com/@nvsajeeva/how-to-pass-ckad-certified-kubernetes-application-developer-exam-0bf98998bada) and [CKS](https://medium.com/@nvsajeeva/how-to-pass-cks-certified-kubernetes-security-specialist-exam-56fe04f42094) certifications. Click on the corresponding links for the study guides. 
 2. [Introduction to Cloud Infrastructure Technologies](https://training.linuxfoundation.org/training/introduction-to-cloud-infrastructure-technologies/)
 3. [Introduction to DevSecOps for Managers](https://training.linuxfoundation.org/training/introduction-to-devsecops-for-managers-lfs180/)
 4. [Introduction to GitOps](https://training.linuxfoundation.org/training/introduction-to-gitops-lfs169/) - This prepares you for [GitOps Certified Associate (CGOA)](https://cgoa.kubeflex.io) certification.
