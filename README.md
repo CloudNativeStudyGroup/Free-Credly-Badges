@@ -58,6 +58,13 @@ They offer five free courses where you can earn digital badges. Click [here](htt
 4. [Cilium CNI Basics](https://academy.solo.io/learn/courses/78/cilium-cni-basics)
 5. [Istio Basics](https://academy.solo.io/learn/courses/77/istio-basics)
 
+## AWS
+![Alt text](images/aws.png?raw=true "AWS")
+
+Amazon Web Services has been providing world-leading cloud technologies that help any organization and any individual build solutions to transform industries.
+
+1. [AWS Knowledge: Serverless](https://explore.skillbuilder.aws/learn/public/learning_plan/view/92/serverless-learning-plan)
+
 ## Join our community
 
 Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
