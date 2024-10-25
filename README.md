@@ -66,6 +66,12 @@ Amazon Web Services has been providing world-leading cloud technologies that hel
 
 1. [AWS Knowledge: Serverless](https://explore.skillbuilder.aws/learn/public/learning_plan/view/92/serverless-learning-plan)
 
+---
+### Other Useful Repositories
+
+1. [Linux Foundation coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons)
+2. [KodeKloud coupons](https://github.com/CloudNativeStudyGroup/KodeKloud-Coupons)
+
 ## Join our community
 
 Join our [community](https://www.linkedin.com/groups/13092099/) to learn together!
