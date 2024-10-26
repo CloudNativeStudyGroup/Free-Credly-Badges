@@ -66,6 +66,14 @@ Amazon Web Services has been providing world-leading cloud technologies that hel
 
 1. [AWS Knowledge: Serverless](https://explore.skillbuilder.aws/learn/public/learning_plan/view/92/serverless-learning-plan)
 
+## Broadcom
+![Alt text](images/broadcom.png?raw=true "Broadcom")
+
+Broadcom is a global technology leader specializing in the design, development, and supply of a broad range of semiconductor and infrastructure software solutions. These courses will be completely removed from NDG services on August 15, 2025. Click [here](https://support.netdevgroup.com/hc/en-us/articles/25519276731543-Termination-of-VMware-IT-Academy-by-Broadcom) to learn more.
+
+1. [IT Academy: Cloud and Virtualization Concepts](https://www.netdevgroup.com/online/courses/virtualization/cloud-and-virtualization-concepts)
+2. [IT Academy: Network Virtualization Concepts](https://www.netdevgroup.com/online/courses/virtualization/network-virtualization-concepts)
+
 ---
 ### Other Useful Repositories
 
