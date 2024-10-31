@@ -76,10 +76,8 @@ Amazon Web Services has been providing world-leading cloud technologies that hel
 9. [AWS Knowledge: Data Migration](https://explore.skillbuilder.aws/learn/public/learning_plan/view/94/storage-data-migration-knowledge-badge-readiness-path)
 10. [AWS Knowledge: Cloud Essentials](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-knowledge-badge-readiness-path)
 11. [AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1722/media-entertainment-direct-to-consumer-and-broadcast-foundations-knowledge-badge-readiness-path)
-12. [AWS Knowledge: Object Storage](https://explore.skillbuilder.aws/learn/public/learning_plan/view/51/storage-learning-plan-object-storage)
-13. [AWS Knowledge: Block Storage](https://explore.skillbuilder.aws/learn/public/learning_plan/view/93/storage-learning-plan-block-storage)
-14. [AWS Knowledge: Data Protection & Disaster Recovery](https://explore.skillbuilder.aws/learn/public/learning_plan/view/54/storage-learning-plan-data-protection-and-disaster-recovery)
-15. [AWS Knowledge: Migration Foundations](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1991/migration-foundations-knowledge-badge-readiness-path)
+12. [AWS Knowledge: Data Protection & Disaster Recovery](https://explore.skillbuilder.aws/learn/public/learning_plan/view/54/storage-learning-plan-data-protection-and-disaster-recovery)
+13. [AWS Knowledge: Migration Foundations](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1991/migration-foundations-knowledge-badge-readiness-path)
 
 ## Broadcom
 ![Alt text](images/broadcom.png?raw=true "Broadcom")
