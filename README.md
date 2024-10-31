@@ -64,7 +64,8 @@ They offer five free courses where you can earn digital badges. Click [here](htt
 
 Amazon Web Services has been providing world-leading cloud technologies that help any organization and any individual build solutions to transform industries.
 
-1. [AWS Knowledge: Serverless](https://explore.skillbuilder.aws/learn/public/learning_plan/view/92/serverless-learning-plan)
+1. [AWS Cloud Essentials](https://explore.skillbuilder.aws/learn/public/learning_plan/view/82/cloud-essentials-learning-plan)
+2. [AWS Knowledge: Serverless](https://explore.skillbuilder.aws/learn/public/learning_plan/view/92/serverless-learning-plan)
 
 ## Join our community
 
