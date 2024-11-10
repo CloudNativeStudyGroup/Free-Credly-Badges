@@ -79,6 +79,21 @@ Amazon Web Services has been providing world-leading cloud technologies that hel
 12. [AWS Knowledge: Data Protection & Disaster Recovery](https://explore.skillbuilder.aws/learn/public/learning_plan/view/54/storage-learning-plan-data-protection-and-disaster-recovery)
 13. [AWS Knowledge: Migration Foundations](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1991/migration-foundations-knowledge-badge-readiness-path)
 
+[AWSeducate](https://www.awseducate.com/signin/SiteLogin?language=de) is another free learning platform from AWS where you can earn badges with lab based courses on various topics while gaining hands-on experience.
+1. [Introduction to Cloud 101](https://awseducate.instructure.com/courses/891)
+2. [Getting Started with Storage](https://awseducate.instructure.com/courses/908)
+3. [Getting Started with Compute](https://awseducate.instructure.com/courses/907)
+4. [Getting Started with Networking](https://awseducate.instructure.com/courses/911)
+5. [Getting Started with Databases](https://awseducate.instructure.com/courses/912)
+6. [Getting Started with Cloud Operations](https://awseducate.instructure.com/courses/889)
+7. [Getting Started with Security](https://awseducate.instructure.com/courses/890)
+8. [Getting Started with Serverless](https://awseducate.instructure.com/courses/905)
+9. [Machine Learning Foundations](https://awseducate.instructure.com/courses/910)
+10. [AWS DeepRacer Primer](https://awseducate.instructure.com/courses/906)
+11. [Introduction to Generative Artificial Intelligence](https://awseducate.instructure.com/courses/1108)
+12. [Builder Labs](https://awseducate.instructure.com/courses/904)
+
+
 ## Broadcom
 ![Alt text](images/broadcom.png?raw=true "Broadcom")
 
