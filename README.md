@@ -78,6 +78,7 @@ Amazon Web Services has been providing world-leading cloud technologies that hel
 11. [AWS Knowledge: Media & Entertainment: Direct-to-Consumer and Broadcast Foundations](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1722/media-entertainment-direct-to-consumer-and-broadcast-foundations-knowledge-badge-readiness-path)
 12. [AWS Knowledge: Data Protection & Disaster Recovery](https://explore.skillbuilder.aws/learn/public/learning_plan/view/54/storage-learning-plan-data-protection-and-disaster-recovery)
 13. [AWS Knowledge: Migration Foundations](https://explore.skillbuilder.aws/learn/public/learning_plan/view/1991/migration-foundations-knowledge-badge-readiness-path)
+14. [AWS Cloud Quest: Cloud Practitioner](https://explore.skillbuilder.aws/learn/course/external/view/elearning/11458/aws-cloud-quest-cloud-practitioner)
 
 ## Broadcom
 ![Alt text](images/broadcom.png?raw=true "Broadcom")
