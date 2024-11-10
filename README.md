@@ -20,7 +20,7 @@ The Linux Foundation provides a neutral, trusted hub for developers to code, man
 10. [Introduction to Zero Trust](https://training.linuxfoundation.org/training/introduction-to-zero-trust-lfs183/)
 11. [Introduction to Cilium](https://training.linuxfoundation.org/training/introduction-to-cilium-lfs146/) - This prepares you for [Cilium Certified Associate (CCA)](https://cca.kubeflex.io) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-cca-cilium-certified-associate-exam-5a1b4f6ca63b) for the study guide.
 12. [Introduction to Istio](https://training.linuxfoundation.org/training/introduction-to-istio-lfs144/) - This prepares you for [Istio Certified Associate (ICA)](https://ica.kubeflex.io) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-ica-istio-certified-associate-exam-355152566bc8) for the study guide.
-13. [Introduction to Backstage: Developer Portals Made Easy](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/)
+13. [Introduction to Backstage: Developer Portals Made Easy](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/). This prepares you for [CBA](https://medium.com/@nvsajeeva/how-to-pass-cba-certified-backstage-associate-exam-6f761c395313) certification.
 14. [Inclusive Open Source Community Orientation](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 
 Note: If you wish to purchase advanced courses or certifications, you can find discounts in [this](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) repository. 
