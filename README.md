@@ -48,17 +48,6 @@ Calico is a networking and security solution for containers, virtual machines, a
 
 1. [Certified Calico Operator - eBPF](https://academy.tigera.io/course/certified-calico-operator-ebpf/)
 
-## Solo.io [Need help to verify]
-![Alt text](images/Solo.jpg?raw=true "Solo Logo")
-[Solo.io](https://www.solo.io/) is the leading provider of API gateway, service mesh, & internal developer portal solutions. Solo.io develops innovative cloud-native solutions.
-They offer five free courses where you can earn digital badges. Click [here](https://www.solo.io/academy/) to visit their Academy landing page, where they claim to provide certificates.
-
-1. [Envoy Basics](https://academy.solo.io/learn/courses/81/envoy-basics)
-2. [Service Mesh Basics](https://academy.solo.io/learn/courses/80/service-mesh-basics)
-3. [API Gateway Basics](https://academy.solo.io/learn/courses/79/api-gateway-basics)
-4. [Cilium CNI Basics](https://academy.solo.io/learn/courses/78/cilium-cni-basics)
-5. [Istio Basics](https://academy.solo.io/learn/courses/77/istio-basics)
-
 ## AWS
 ![Alt text](images/aws.png?raw=true "AWS")
 
