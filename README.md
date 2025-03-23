@@ -98,7 +98,7 @@ Broadcom is a global technology leader specializing in the design, development, 
 ### Other Useful Repositories
 
 1. [Linux Foundation coupons](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons)
-2. [KodeKloud coupons](https://github.com/CloudNativeStudyGroup/KodeKloud-Coupons)
+2. Join [certdirectory.io](https://certdirectory.io) to showcase your achievements! 
 
 
 ## Join our community
