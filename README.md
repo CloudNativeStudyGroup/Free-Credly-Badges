@@ -16,13 +16,13 @@ The Linux Foundation provides a neutral, trusted hub for developers to code, man
 6. [Introduction to Jenkins](https://tidd.ly/4qpf0qX)
 7. [Introduction to DevOps and Site Reliability Engineering](https://tidd.ly/3Mh7fEF)
 8. [Introduction to Serverless on Kubernetes](https://tidd.ly/4pbZpKj)
-9. [Scaling Cloud Native Applications with KEDA](https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/)
-10. [Introduction to AI/ML Toolkits with Kubeflow](https://training.linuxfoundation.org/training/introduction-to-ai-ml-toolkits-with-kubeflow-lfs147/)
-11. [Introduction to Zero Trust](https://training.linuxfoundation.org/training/introduction-to-zero-trust-lfs183/)
+9. [Scaling Cloud Native Applications with KEDA](https://tidd.ly/3MM5jnP)
+10. [Introduction to AI/ML Toolkits with Kubeflow](https://tidd.ly/3KLEDmF)
+11. [Introduction to Zero Trust](https://tidd.ly/4pbfnV0)
 12. [Introduction to Cilium](https://tidd.ly/48lcko3) - This prepares you for [Cilium Certified Associate (CCA)](https://tidd.ly/422X77M) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-cca-cilium-certified-associate-exam-5a1b4f6ca63b) for the study guide.
 13. [Introduction to Istio](https://tidd.ly/4oF0c6j) - This prepares you for [Istio Certified Associate (ICA)](https://tidd.ly/4isMzEG) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-ica-istio-certified-associate-exam-355152566bc8) for the study guide.
-14. [Introduction to Backstage: Developer Portals Made Easy](https://training.linuxfoundation.org/training/introduction-to-backstage-developer-portals-made-easy-lfs142/). This prepares you for [CBA](https://tidd.ly/4iu6NxX) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-cba-certified-backstage-associate-exam-6f761c395313) for the study guide.
-15. [Getting Started with OpenTelemetry](https://training.linuxfoundation.org/training/getting-started-with-opentelemetry-lfs148/). This prepares you for [OTCA](https://tidd.ly/4kRaAa8) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-otca-opentelemetry-certified-associate-exam-e19d650cbe82) for the study guide.
+14. [Introduction to Backstage: Developer Portals Made Easy](https://tidd.ly/3Mh7YFT). This prepares you for [CBA](https://tidd.ly/4iu6NxX) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-cba-certified-backstage-associate-exam-6f761c395313) for the study guide.
+15. [Getting Started with OpenTelemetry](https://tidd.ly/4iEVKTp). This prepares you for [OTCA](https://tidd.ly/4kRaAa8) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-otca-opentelemetry-certified-associate-exam-e19d650cbe82) for the study guide.
 16. [Inclusive Open Source Community Orientation](https://training.linuxfoundation.org/training/inclusive-open-source-community-orientation-lfc102/)
 
 Note: If you wish to purchase advanced courses or certifications, you can find discounts in [this](https://github.com/CloudNativeStudyGroup/Linux-Foundation-Coupons) repository. 
