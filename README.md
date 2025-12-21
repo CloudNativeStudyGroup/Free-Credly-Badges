@@ -13,7 +13,7 @@ The Linux Foundation provides a neutral, trusted hub for developers to code, man
 3. [Introduction to Cloud Infrastructure Technologies](https://tidd.ly/4p0egqV)
 4. [Introduction to DevSecOps for Managers](https://tidd.ly/4q0uT76)
 5. [Introduction to GitOps](https://tidd.ly/448oyhe) - This prepares you for [GitOps Certified Associate (CGOA)](https://tidd.ly/3DGixye) certification. Click [here](https://medium.com/@nvsajeeva/how-to-pass-cgoa-gitops-certified-associate-exam-63c74676fe3d) for the study guide.
-6. [Introduction to Jenkins](https://training.linuxfoundation.org/training/introduction-to-jenkins-lfs167/)
+6. [Introduction to Jenkins](https://tidd.ly/4qpf0qX)
 7. [Introduction to DevOps and Site Reliability Engineering](https://training.linuxfoundation.org/training/introduction-to-devops-and-site-reliability-engineering-lfs162/)
 8. [Introduction to Serverless on Kubernetes](https://training.linuxfoundation.org/training/introduction-to-serverless-on-kubernetes-lfs157/)
 9. [Scaling Cloud Native Applications with KEDA](https://training.linuxfoundation.org/express-learning/scaling-cloud-native-applications-with-keda-lfel1014/)
